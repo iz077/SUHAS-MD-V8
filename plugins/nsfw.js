@@ -5,7 +5,7 @@ const {readEnv} = require('../lib/database')
 
 cmd({
     pattern: "bysexdl",
-    desc: "ᴅᴏᴡɴʟᴏᴀᴅ ᴀᴅᴜʟᴛꜱ ᴠɪᴅᴇᴏꜱ ꜰʀᴏᴍ bysex.net.",
+    desc: "download the video bysex.net.",
     category: "nsfw",
     filename: __filename
 },
@@ -27,7 +27,7 @@ await m.react("🔞")
     const dlurl = $$("body > div.container > ul > li:nth-child(2) > a").attr('href')
 
     
-await conn.sendMessage(from, {video: {url: dlurl},mimetype: "video/mp4",caption: botwatermark},{quoted: mek})
+await conn.sendMessage(from, {video: {url: dlurl},mimetype: "video/mp4",caption: © ᴘᴏᴡᴇʀᴅ ʙʏ ꜱᴜʜᴀꜱ-ᴍᴅ🇱🇰,{quoted: mek})
     
 }catch(e){
 console.log(e)
@@ -37,7 +37,7 @@ reply(`${e}`)
 
 cmd({
     pattern: "pussybdl",
-    desc: "ᴅᴏᴡɴʟᴏᴀᴅ ᴀᴅᴜʟᴛꜱ ᴠɪᴅᴇᴏꜱ ꜰʀᴏᴍ pussyboy.net.",
+    desc: "download the video pussyboy.net.",
     category: "nsfw",
     filename: __filename
 },
@@ -54,7 +54,7 @@ const scrape = await fetch(surl)
 const $ = cheerio.load(await scrape.text())
 const dlurl = $("body > div.container-xxl.videos > div.col-md-12.videos-detail > div.col-md-12.videos-details > div > video > source").attr('src')
 
-await conn.sendMessage(from, {video: {url: dlurl},mimetype: "video/mp4",caption: botwatermark},{quoted: mek})
+await conn.sendMessage(from, {video: {url: dlurl},mimetype: "video/mp4",caption: © ᴘᴏᴡᴇʀᴅ ʙʏ ꜱᴜʜᴀꜱ-ᴍᴅ🇱🇰,{quoted: mek})
     
 }catch(e){
 console.log(e)
@@ -64,7 +64,7 @@ reply(`${e}`)
 
 cmd({
     pattern: "xnxxdl",
-    desc: "ᴅᴏᴡɴʟᴏᴀᴅ ᴀᴅᴜʟᴛꜱ ᴠɪᴅᴇᴏꜱ ꜰʀᴏᴍ xnxx.com.",
+    desc: "download the video xnxx.com.",
     category: "nsfw",
     filename: __filename
 },
@@ -97,7 +97,7 @@ await m.react("🔞")
     const pattern = /html5player\.setVideoUrlHigh\('([^']+)'\)/;
     const link = video.match(pattern)?.[1];
 
-let desc = `${botwatermark}`
+let desc = `© ᴘᴏᴡᴇʀᴅ ʙʏ ꜱᴜʜᴀꜱ-ᴍᴅ🇱🇰`
 
         await conn.sendMessage(from,{video: {url: link},mimetype: "video/mp4",caption: desc},{quoted: mek})
 
@@ -109,7 +109,7 @@ reply(`${e}`)
 
 cmd({
     pattern: "xvdl",
-    desc: "ᴅᴏᴡɴʟᴏᴀᴅ ᴀᴅᴜʟᴛꜱ ᴠɪᴅᴇᴏꜱ ꜰʀᴏᴍ xvideos.com",
+    desc: "download the video xvideos.com",
     category: "nsfw",
     filename: __filename
 },
@@ -142,7 +142,7 @@ await m.react("🔞")
     const pattern = /html5player\.setVideoUrlHigh\('([^']+)'\)/;
     const link = video.match(pattern)?.[1];
 
-let desc = `${botwatermark}`
+let desc = `© ᴘᴏᴡᴇʀᴅ ʙʏ ꜱᴜʜᴀꜱ-ᴍᴅ🇱🇰`
 
         await conn.sendMessage(from,{video: {url: link},mimetype: "video/mp4",caption: desc},{quoted: mek})
 
@@ -156,7 +156,7 @@ reply(`${e}`)
 
 cmd({
     pattern: "xwaifu",
-    desc: "ꜰᴇᴛᴄʜ ʀᴀɴᴅᴏᴍ xᴡᴀɪꜰᴜ ɪᴍᴀɢᴇꜱ.",
+    desc: "download the video ɪᴍᴀɢᴇꜱ.",
     category: "nsfw",
     filename: __filename
 },
@@ -171,7 +171,7 @@ const apiUrl = `https://api.waifu.pics/nsfw/waifu`
 const response = await axios.get(apiUrl)
 const data = response.data
 
-await conn.sendMessage(from,{image: {url: data.url},mimetype: "video/gif",caption: `${botwatermark}`},{quoted: mek})
+await conn.sendMessage(from,{image: {url: data.url},mimetype: "video/gif",caption: `© ᴘᴏᴡᴇʀᴅ ʙʏ ꜱᴜʜᴀꜱ-ᴍᴅ🇱🇰`},{quoted: mek})
 
 }catch(e){
 console.log(e)
@@ -181,7 +181,7 @@ reply(`${e}`)
 
 cmd({
     pattern: "xtrap",
-    desc: "ꜰᴇᴛᴄʜ ʀᴀɴᴅᴏᴍ xᴛʀᴀᴘ ɪᴍᴀɢᴇꜱ.",
+    desc: "download the video.",
     category: "nsfw",
     filename: __filename
 },
@@ -196,7 +196,7 @@ const apiUrl = `https://api.waifu.pics/nsfw/trap`
 const response = await axios.get(apiUrl)
 const data = response.data
 
-await conn.sendMessage(from,{image: {url: data.url},caption: `${botwatermark}`},{quoted: mek})
+await conn.sendMessage(from,{image: {url: data.url},caption: `© ᴘᴏᴡᴇʀᴅ ʙʏ ꜱᴜʜᴀꜱ-ᴍᴅ🇱🇰`},{quoted: mek})
 
 }catch(e){
 console.log(e)
@@ -206,7 +206,7 @@ reply(`${e}`)
 
 cmd({
     pattern: "xblowjob",
-    desc: "ꜰᴇᴛᴄʜ ʀᴀɴᴅᴏᴍ xʙʟᴏᴡᴊᴏʙ ɪᴍᴀɢᴇꜱ.",
+    desc: "download the video.",
     category: "nsfw",
     filename: __filename
 },
@@ -221,7 +221,7 @@ const apiUrl = `https://api.waifu.pics/nsfw/blowjob`
 const response = await axios.get(apiUrl)
 const data = response.data
 
-await conn.sendMessage(from,{image: {url: data.url},caption: `${botwatermark}`},{quoted: mek})
+await conn.sendMessage(from,{image: {url: data.url},caption: `© ᴘᴏᴡᴇʀᴅ ʙʏ ꜱᴜʜᴀꜱ-ᴍᴅ🇱🇰`},{quoted: mek})
 
 }catch(e){
 console.log(e)
@@ -231,7 +231,7 @@ reply(`${e}`)
 
 cmd({
     pattern: "xneko",
-    desc: "ꜰᴇᴛᴄʜ ʀᴀɴᴅᴏᴍ xɴᴇᴋᴏ ɪᴍᴀɢᴇꜱ.",
+    desc: "download the video.",
     category: "nsfw",
     filename: __filename
 },
@@ -246,7 +246,7 @@ const apiUrl = `https://api.waifu.pics/nsfw/neko`
 const response = await axios.get(apiUrl)
 const data = response.data
 
-await conn.sendMessage(from,{image: {url: data.url},caption: `${botwatermark}`},{quoted: mek})
+await conn.sendMessage(from,{image: {url: data.url},caption: `© ᴘᴏᴡᴇʀᴅ ʙʏ ꜱᴜʜᴀꜱ-ᴍᴅ🇱🇰`},{quoted: mek})
 
 }catch(e){
 console.log(e)
