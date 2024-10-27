@@ -1,12 +1,12 @@
 {
   "name": "SUHAS-MD-V8",
   "version": "1.5.0",
-  "description": "A WhatsApp bot created by Suhas Pathsindu",
+  "description": "💞A WhatsApp bot created by Suhas Pathsindu🧚‍♂️",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SUHAS-MD-V2",
-    "stop": "pm2 stop SUHAS-MD-V2",
-    "restart": "pm2 restart SUHAS-MD-V2"
+    "start": "pm2 start index.js --deep-monitoring --attach --name SUHAS-MD-V8",
+    "stop": "pm2 stop SUHAS-MD-V8",
+    "restart": "pm2 restart SUHAS-MD-V8"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
@@ -35,11 +35,14 @@
     "mfiredlcore-vihangayt": "^1.0.0",
     "@bochilteam/scraper": "latest",
     "@sl-code-lords/si-subdl": "^1.1.1",
-    "@sl-code-lords/esana-news": "latest",
+    "@sl-code-lords/esana-news": "1.1.0",
+     "hirunews-scrap": "1.1.2",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@blackamda/telegram-image-url": "^1.0.0",
     "youtubedl-core": "^4.11.5",
     "moment-timezone": "latest",
+    "@mrnima/technology_news_info": "^1.0.0",
+    "@mrnima/facebook-downloader": "^1.0.0",
     "file_size_url": "^1.0.4"
 
 
