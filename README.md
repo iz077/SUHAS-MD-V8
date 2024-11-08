@@ -31,8 +31,10 @@
 ### 2. GET SESSION ID HERE
 
 ### SERVER 1 (replit short)
- 
-<a href="https://replit.com/@suhaskindom/suhas-pair-old"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
+
+# USE THIS LINK.
+
+<a href="https://replit.com/@suhaskindom/SUHAS-MD-V8-PAIR-CODE"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
 ### SERVER 2 (replit long)
 
