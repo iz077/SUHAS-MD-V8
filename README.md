@@ -30,15 +30,15 @@
 
 ### 2. GET SESSION ID HERE
 
-### SERVER 1 (replit)
+### SERVER 1 (replit short)
  
 <a href="https://replit.com/@suhaskindom/suhas-pair-old"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
-### SERVER 2 (vercel)
+### SERVER 2 (replit long)
 
 <a href="https://pair-web-public.koyeb.app/"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
-### SERVER 1 (vercel)
+### SERVER 1 (vercel web)
  
 <a href="https://suhas-md-web-pair.vercel.app/"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
