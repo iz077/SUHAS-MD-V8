@@ -46,6 +46,7 @@ const axios = require('axios')
 const { File } = require('megajs')
 const prefix = '.'
 
+
 const ownerNumber = ['💕Add Your Number Here With Country Code💕']
 
 //===================SESSION-AUTH============================
