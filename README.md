@@ -1,7 +1,7 @@
- # 🎆SUHAS-MD WHATSAPP BOT VERSION-8 ( Official Version ) 🔖
+ # 🎆SUHAS-MD WHATSAPP BOT VERSION-8.0.0 ( Official Version ) 🔖
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=A93226&center=true&width=900&height=100&lines=SUHAS-MD%20V2;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20Suhas%20Pathsindu)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=A93226&center=true&width=900&height=100&lines=🧚‍♂️SUHAS-MD%20V8🧚‍♂️;%20🤖Multi-Device%20WhatsApp%20Bot.🤖;%20🥰Developed%20By%20Suhas%20Pathsindu.🥰)
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
@@ -50,29 +50,29 @@
 
 ### DEPLOY ON CLEVER CLOUD
 
-1. If you don't have an account in Clever Cloud, create one and deploy.
+2. If you don't have an account in Clever Cloud, create one and deploy.
     <br>
     <a href='https://api.clever-cloud.com/v2/sessions/signup?subscription_source=cta-home-signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-orange?style=for-the-badge&logo=clever-cloud&logoColor=white'/></a>
 
 ### DEPLOY ON HEROKU
 
-1. If you don't have an account in Heroku, create one.
+3. If you don't have an account in Heroku, create one.
     <br>
     <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-2. Now deploy.
+4. Now deploy.
     <br>
     <a href='https://dashboard.heroku.com/new?template=https://github.com/suhasbro/SUHAS-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 ### DEPLOY ON REPLIT
-1. Deploy.
+5. Deploy.
     <br>
     <a href='https://replit.com' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 ### DEPLOY ON RAILWAY
-1. Deploy.
+6. Deploy.
     <br>
     <a href='https://railway.com' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
-    <h2 align="center"> ⚠️ NOTE  </h2>
-## SUHAS-MD SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
+    <h2 align="center"> ⚠️ NOTE ⚠️ </h2>
+## 🚫 SUHAS-MD SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
 
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
