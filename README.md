@@ -10,7 +10,7 @@
    <a><img src='https://telegra.ph/file/ff229baf932900c151026.jpg'/></a><a>
 <p align="center">
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ SUHAS_+MD-+V8★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+SUHAS+BRO;RELEASED+DATE+22%2F8%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ SUHAS_+MD-+V8★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+SUHAS+BRO;RELEASED+DATE+15%2F11%2F2024." alt="Typing SVG" /></a>
  </p>
 
 
