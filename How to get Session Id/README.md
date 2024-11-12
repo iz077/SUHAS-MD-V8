@@ -7,8 +7,17 @@
 <div align="center">
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ SUHAS_+MD-+V8★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+SUHAS+BRO;RELEASED+DATE+22%2F8%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ SUHAS_+MD-+V8★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+SUHAS+BRO;RELEASED+DATE+15%2F11%2F2024." alt="Typing SVG" /></a>
  </p>
+
+ ### 🔥🔥 GET SESSION ID HERE 🔥🔥
+
+### SERVER 1 (replit short)
+
+# 💎 USE THIS LINK. 💎
+
+<a href="https://replit.com/@suhaskindom/SUHAS-MD-V8-PAIR-CODE"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
+
 
 
 1. Add Your Bot Number With Country Code.
