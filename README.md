@@ -32,13 +32,11 @@
 
 ### SERVER 1 (replit short)
 
-# USE THIS LINK.
+# 💎 USE THIS LINK. 💎
 
 <a href="https://replit.com/@suhaskindom/SUHAS-MD-V8-PAIR-CODE"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
-### SERVER 2 (koyeb new)
-
-<a href="https://suhas-md-v8-pair-code.koyeb.app/"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
+  
    
 
 ### DEPLOY ON RENDER
