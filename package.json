@@ -31,6 +31,8 @@
     "yt-search" : "2.11.1",
     "api-dylux" : "1.8.5",
     "cheerio" : "1.0.0",
+    "@sl-code-lords/movie-api":"1.0.0",
+    "pixaldrain-sinhalasub": "git+https://github.com/DarkMakerofc/pixaldrain-sinhalasub.git",
     "g-i-s": "^2.1.7",
     "mfiredlcore-vihangayt": "^1.0.0",
     "@bochilteam/scraper": "latest",
