@@ -4,10 +4,10 @@ const { PixaldrainDL } = require("pixaldrain-sinhalasub");
 
 // Movie search command
 cmd({
-    pattern: "movielal",
+    pattern: "sinhalasub",
     desc: "Search for a movie and get details and download options.",
     category: "movie",
-    react: "🔍",
+    react: "💕",
     filename: __filename
 },
 async (conn, mek, m, { from, q, reply }) => {
@@ -19,14 +19,14 @@ async (conn, mek, m, { from, q, reply }) => {
         const result = await SinhalaSub.get_list.by_search(input);
         if (!result.status || result.results.length === 0) return reply("No results found.");
 
-        let message = "*Search Results:*\n\n";
+        let message = "*🧚‍♂️SUHAS-MD Search Results:*\n\n";
         result.results.forEach((item, index) => {
             message += `${index + 1}. ${item.title}\nType: ${item.type}\nLink: ${item.link}\n\n`;
         });
 
         // Step 2: Send the search results to the user
         const sentMsg = await conn.sendMessage(from, {
-            image: { url: `https://github.com/Deneth400/DENETH-MD-HARD/blob/main/Images/SinhalaSub.jpg?raw=true` },
+            image: { url: `https://i.ibb.co/02FQtBf/20241118-143715.jpg` },
             caption: message,  // Send the description as the caption
             contextInfo: {
                 forwardingScore: 999,
@@ -63,20 +63,20 @@ async (conn, mek, m, { from, q, reply }) => {
             const movie = movieDetails.result;
             let movieMessage = `*${movie.title}*\n\n`;
             movieMessage += `📅 Rᴇʟᴇᴀꜱᴇ ᴅᴀᴛᴇ: ${movie.release_date}\n`;
-            movieMessage += `🗺 Cᴏᴜɴᴛʀʏ: ${movie.country}\n`;
-            movieMessage += `⏰ Dᴜʀᴀᴛɪᴏɴ: ${movie.duration}\n`;
+            movieMessage += `🌎 Cᴏᴜɴᴛʀʏ: ${movie.country}\n`;
+            movieMessage += `🎰 Dᴜʀᴀᴛɪᴏɴ: ${movie.duration}\n`;
 
             // Handling genres properly
             const genres = Array.isArray(movie.genres) ? movie.genres.join(', ') : movie.genres;
-            movieMessage += `🎭 Gᴇɴʀᴇꜱ: ${genres}\n`;
+            movieMessage += `🧚‍♂️ ɢᴇɴʀᴇꜱ: ${genres}\n`;
 
-            movieMessage += `⭐ Iᴍᴅʙ Rᴀᴛɪɴɢ: ${movie.IMDb_Rating}\n`;
-            movieMessage += `🎬 Dɪʀᴇᴄᴛᴏʀ: ${movie.director.name}\n\n`;
-            movieMessage += `🔢 𝗥𝗘𝗣𝗟𝗬 𝗧𝗛𝗘 𝗤𝗨𝗔𝗟𝗜𝗧𝗬 𝗕𝗘𝗟𝗢𝗪\n\n`;
-            movieMessage += `*SD | SD 480p*\n`;
-            movieMessage += `*HD | HD 720p*\n`;
-            movieMessage += `*FHD | FHD 1080p*\n\n`;
-            movieMessage += `> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴇɴᴇᴛʜ-xᴅ ᴛᴇᴄʜ®`;
+            movieMessage += `⭐ ɪᴍᴅʙ ʀᴀᴛɪɴɢ: ${movie.IMDb_Rating}\n`;
+            movieMessage += `🧛‍♂️ ᴅɪʀᴇᴄᴛᴏʀ: ${movie.director.name}\n\n`;
+            movieMessage += `🔢 𝙍𝙀𝙋𝙇𝙔 𝙏𝙃𝙀 𝙉𝙐𝘽𝙈𝙀𝙍 𝙔𝙊𝙐 𝙒𝘼𝙉𝙏\n\n`;
+            movieMessage += `*1. ➠ SD 480p*\n`;
+            movieMessage += `*2. ➠ HD 720p*\n`;
+            movieMessage += `*3. ➠ HHD 1080p*\n\n`;
+            movieMessage += `> *© 𝙿𝚘𝚠𝚎𝚛𝚍 𝙱𝚢 🧚‍♂️⃝𝚂𝚄𝙷𝙰𝚂-𝙼𝙳 𝚅8 💕⃟*`;
 
             const imageUrl = movie.images && movie.images.length > 0 ? movie.images[0] : null;
 
@@ -102,14 +102,14 @@ async (conn, mek, m, { from, q, reply }) => {
                 if (message.message.extendedTextMessage.contextInfo.stanzaId === movieDetailsMessage.key.id) {
                     let quality;
                     switch (userReply) {
-                        case 'SD':
+                        case '1':
                             quality = "SD 480p";
                             break;
-                        case 'HD':
+                        case '2':
                             quality = "HD 720p";
                             break;
-                        case 'FHD':
-                            quality = "FHD 1080p";
+                        case '3':
+                            quality = "HHD 1080p";
                             break;
                         default:
                             await conn.sendMessage(from, {
@@ -129,7 +129,7 @@ async (conn, mek, m, { from, q, reply }) => {
                                 },
                                 mimetype: 'video/mp4',
                                 fileName: `${movie.title}.mp4`,
-                                caption: `${movie.title}\n\n> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴇɴᴇᴛʜ-xᴅ ᴛᴇᴄʜ®`
+                                caption: `${movie.title}\n\n> *© 𝙿𝚘𝚠𝚎𝚛𝚍 𝙱𝚢 🧚‍♂️⃝𝚂𝚄𝙷𝙰𝚂-𝙼𝙳 𝚅8 💕⃟*`
                             }, { quoted: mek });
 
                             // React with success
