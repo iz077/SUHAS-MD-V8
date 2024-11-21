@@ -1,4 +1,4 @@
- # 🎆SUHAS-MD WHATSAPP BOT VERSION-8.0.0 ( Official Version ) 🔖
+ # 📌𝚂𝚄𝙷𝙰𝚂 𝙼𝙳 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝙱𝚘𝚝 𝚅𝚎𝚛𝚜𝚒𝚘𝚗-8.0.0 ( 𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕 𝚅𝚎𝚛𝚜𝚒𝚘𝚗 ) 🔖
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=A93226&center=true&width=900&height=100&lines=🧚‍♂️SUHAS-MD%20V8🧚‍♂️;%20🤖Multi-Device%20WhatsApp%20Bot.🤖;%20🥰Developed%20By%20Suhas%20Pathsindu.🥰)
