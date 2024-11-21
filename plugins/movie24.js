@@ -310,7 +310,7 @@ async (conn, mek, m, { from, q, reply }) => {
             conn.ev.off("messages.upsert", movieSelectionListener);
         }, 60000);
 
-    } catch (e) {
+ } catch (e) {
         console.log(e);
         await conn.sendMessage(from, { react: { text: '❌', key: mek.key } });
         return reply(`❗ Error: ${e.message}`);
