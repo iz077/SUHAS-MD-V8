@@ -34,7 +34,7 @@
 
 # 💎 USE THIS LINK. 💎
 
-<a href="https://replit.com/@suhaskindom/SUHAS-MD-V8-PAIR-CODE"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
+<a href="https://replit.com/@suhasbatta123/SUHAS-MD-PAIR"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
  📌 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝘆 𝗔𝗱𝗱 𝗬𝗼𝘂𝗿 𝗕𝗼𝘁 𝗡𝘂𝗺𝗯𝗲𝗿 𝗜𝗻 𝗜𝗻𝗱𝗲𝘅.𝗷𝘀 50 𝗟𝗶𝗻𝗲 📌
  📌 ඔයාගේ බොට් නම්බර් එක Index.js එකේ 50 වෙනි පෙළියේ දාන්න. 📌
