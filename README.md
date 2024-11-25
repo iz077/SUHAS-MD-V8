@@ -3,6 +3,13 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=A93226&center=true&width=900&height=100&lines=🧚‍♂️SUHAS-MD%20V8🧚‍♂️;%20🤖Multi-Device%20WhatsApp%20Bot.🤖;%20🥰Developed%20By%20Suhas%20Pathsindu.🥰)
 <p align="center">
+🧚‍♂️SUHAS-MD Support Group💕
+<p align="center">
+https://chat.whatsapp.com/BFDXnaUCQKqInxGq8LxUvo
+<p align="center">
+💚බොට් හදාගත්ත අය මේ ගෘෘප් එකට ජොයින් වෙන්න.🙃❤
+<p align="center">
+💚 You Are Deploy SUHAS-MD Bot Join Our WhatsApp Group.🙃❤
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <div align="center">
